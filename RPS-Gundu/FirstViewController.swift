@@ -33,8 +33,8 @@ class FirstViewController: UIViewController {
             _ =  AppDelegate.model.choosePlayer1
             _ = AppDelegate.model.choosePlayer2
             
-            rLBL.text = "Player 1 "+conToStr(AppDelegate.model.choosePlayer1) + "\n Player 2"+
-            conToStr(AppDelegate.model.choosePlayer2) +
+//            rLBL.text = "Player 1 "+conToStr(AppDelegate.model.choosePlayer1) + "\n Player 2"+
+        //    conToStr(AppDelegate.model.choosePlayer2)
             
             
             
